@@ -38,7 +38,6 @@ pip install -r requirements.txt
 
 3. Set up your environment variables:
 
-**For macOS or Linux:**
 ```bash
 # Azure OpenAI  
 # Craate .env file and update values for the following environment variables:   
